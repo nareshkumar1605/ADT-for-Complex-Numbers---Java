@@ -1,0 +1,130 @@
+Test case 1: (135.0 + -14.0i) , (155.0 + 34.0i)
+
+The greatest common divisor for complex number (135.0 + -14.0i) and complex number (155.0 + 34.0i)is (-5.0 + -12.0i)
+The complex number (3.0 + 5.0i)rotated 90 degrees becomes (5.0 + -3.0i)
+According to Ohm's law(V=IR), the current is: (7.0 + -6.0i)
+According to Ohm's law(V=IR), the voltage is: (4.0 + 22.0i)
+
+Test case 2: (123.0 + -24.0i) , (111.0 + 34.0i)
+
+The greatest common divisor for complex number (123.0 + -24.0i) and complex number (111.0 + 34.0i)is (-4.0 + 12.0i)
+The complex number (5.0 + 3.0i)rotated 30 degrees becomes (5.830127018922194 + 0.09807621135331593i)
+According to Ohm's law(V=IR), the current is: (5.180327868852459 + -1.9836065573770492i)
+According to Ohm's law(V=IR), the voltage is: (0.0 + 12.0i)
+
+Test case 3: (7.0 + 3.0i) , (9.0 + 9.0i)
+
+The greatest common divisor for complex number (7.0 + 3.0i) and complex number (9.0 + 9.0i)is (-1.0 + -1.0i)
+The complex number (2.0 + 2.0i)rotated 30 degrees becomes (2.7320508075688776 + 0.7320508075688773i)
+According to Ohm's law(V=IR), the current is: (2.0 + 0.5i)
+According to Ohm's law(V=IR), the voltage is: (40.0 + 20.0i)
+
+Test case 4: (135.0 + -14.0i) , (155.0 + 34.0i)
+
+The greatest common divisor for complex number (135.0 + -14.0i) and complex number (155.0 + 34.0i)is (-5.0 + -12.0i)
+The complex number (3.0 + 5.0i)rotated 90 degrees becomes (5.0 + -3.0i)
+According to Ohm's law(V=IR), the current is: (7.0 + -6.0i)
+According to Ohm's law(V=IR), the voltage is: (4.0 + 22.0i)
+
+Test case 5: (10.0 + -4.0i) , (1.0 + 0.0i)
+
+The greatest common divisor for complex number (10.0 + -4.0i) and complex number (1.0 + 0.0i)is (1.0 + 0.0i)
+The complex number (4.0 + 2.0i)rotated 25 degrees becomes (4.470467671627999 + 0.12214252711050222i)
+According to Ohm's law(V=IR), the current is: (0.3133047210300429 + -0.11587982832618025i)
+According to Ohm's law(V=IR), the voltage is: (1.0 + 12.0i)
+
+Test case 6: (109.0 + -19.0i) , (151.0 + 26.0i)
+
+The greatest common divisor for complex number (109.0 + -19.0i) and complex number (151.0 + 26.0i)is (-11.0 + -4.0i)
+The complex number (8.0 + 9.0i)rotated 90 degrees becomes (9.000000000000002 + -7.999999999999998i)
+According to Ohm's law(V=IR), the current is: (4.630769230769231 + -1.646153846153846i)
+According to Ohm's law(V=IR), the voltage is: (10.0 + 30.0i)
+
+Test case 7: (120.0 + 12.0i) , (109.0 + -6.0i)
+
+The greatest common divisor for complex number (120.0 + 12.0i) and complex number (109.0 + -6.0i)is (-6.0 + 6.0i)
+The complex number (4.0 + 6.0i)rotated 45 degrees becomes (7.071067811865475 + 1.4142135623730954i)
+According to Ohm's law(V=IR), the current is: (-0.05149127743387732 + 0.09425998874507598i)
+According to Ohm's law(V=IR), the voltage is: (-39.0 + 82.0i)
+
+Test case 8: (172.0 + 14.0i) , (223.0 + 6.0i)
+
+The greatest common divisor for complex number (172.0 + 14.0i) and complex number (223.0 + 6.0i)is (1.0 + 2.0i)
+The complex number (6.0 + 9.0i)rotated 20 degrees becomes (8.71633701464647 + 6.405112727119164i)
+According to Ohm's law(V=IR), the current is: (-0.2629757785467128 + 0.9930795847750865i)
+According to Ohm's law(V=IR), the voltage is: (-78.0 + 84.0i)
+
+Test case 9: (108.0 + -12.0i) , (123.0 + 56.0i)
+
+The greatest common divisor for complex number (108.0 + -12.0i) and complex number (123.0 + 56.0i)is (9.0 + 3.0i)
+The complex number (6.0 + 8.0i)rotated 120 degrees becomes (3.9282032302755097 + -9.196152422706632i)
+According to Ohm's law(V=IR), the current is: (-0.717948717948718 + 2.076923076923077i)
+According to Ohm's law(V=IR), the voltage is: (-22.0 + 34.0i)
+
+Test case 10: (-226.0 + 19.0i) , (144.0 + 27.0i)
+
+The greatest common divisor for complex number (-226.0 + 19.0i) and complex number (144.0 + 27.0i)is (6.0 + 5.0i)
+The complex number (7.0 + 15.0i)rotated 36 degrees becomes (14.479897745011728 + 8.020758149576901i)
+According to Ohm's law(V=IR), the current is: (0.10051993067590988 + -0.07914500288850375i)
+According to Ohm's law(V=IR), the voltage is: (47.0 + 74.0i)
+
+First test case for part 1
+(1.0 + 7.0i) plus (3.0 + 2.0i) equals (4.0 + 9.0i)
+(1.0 + 7.0i) minus (3.0 + 2.0i) equals (-2.0 + 5.0i)
+(1.0 + 7.0i) multiplied by (3.0 + 2.0i) is (-11.0 + 23.0i)
+(1.0 + 7.0i) divided by (3.0 + 2.0i) is (1.3076923076923077 + 1.4615384615384615i)
+Square root of (1.0 + 7.0i)is (2.0088638345922645 + 1.7422783663733927i)
+polar form of (1.0 + 7.0i)is 7.0710678118654755(cos 81.86989764584403 + i*sin 81.86989764584403)
+Conjugation of (1.0 + 7.0i)is (1.0 + -7.0i)
+
+
+Second test case for part 1
+(3.0 + 9.0i) plus (2.0 + 7.0i) equals (5.0 + 16.0i)
+(3.0 + 9.0i) minus (2.0 + 7.0i) equals (1.0 + 2.0i)
+(3.0 + 9.0i) multiplied by (2.0 + 7.0i) is (-57.0 + 39.0i)
+(3.0 + 9.0i) divided by (2.0 + 7.0i) is (1.3018867924528301 + -0.05660377358490566i)
+Square root of (3.0 + 9.0i)is (2.4986829511269666 + 1.800948775021813i)
+polar form of (3.0 + 9.0i)is 9.486832980505138(cos 71.56505117707799 + i*sin 71.56505117707799)
+Conjugation of (3.0 + 9.0i)is (3.0 + -9.0i)
+
+
+Third test case for part 1
+(14.0 + 7.0i) plus (2.0 + 6.0i) equals (4.0 + 9.0i)
+(14.0 + 7.0i) minus (2.0 + 6.0i) equals (12.0 + 1.0i)
+(14.0 + 7.0i) multiplied by (2.0 + 6.0i) is (-14.0 + 98.0i)
+(14.0 + 7.0i) divided by (2.0 + 6.0i) is (1.75 + -1.75i)
+Square root of (14.0 + 7.0i)is (3.850485413717245 + 0.9089763040086712i)
+polar form of (14.0 + 7.0i)is 15.652475842498529(cos 26.56505117707799 + i*sin 26.56505117707799)
+Conjugation of (14.0 + 7.0i)is (14.0 + -7.0i)
+
+
+Fourth test case for part 1
+(3.0 + 9.0i) plus (1.0 + 1.0i) equals (4.0 + 10.0i)
+(3.0 + 9.0i) minus (1.0 + 1.0i) equals (2.0 + 8.0i)
+(3.0 + 9.0i) multiplied by (1.0 + 1.0i) is (-6.0 + 12.0i)
+(3.0 + 9.0i) divided by (1.0 + 1.0i) is (6.0 + 3.0i)
+Square root of (3.0 + 9.0i)is (2.4986829511269666 + 1.800948775021813i)
+polar form of (3.0 + 9.0i)is 9.486832980505138(cos 71.56505117707799 + i*sin 71.56505117707799)
+Conjugation of (3.0 + 9.0i)is (3.0 + -9.0i)
+
+
+Fifth test case for part 1
+(22.0 + 6.0i) plus (3.0 + 6.0i) equals (25.0 + 12.0i)
+(22.0 + 6.0i) minus (3.0 + 6.0i) equals (19.0 + 0.0i)
+(22.0 + 6.0i) multiplied by (3.0 + 6.0i) is (30.0 + 150.0i)
+(22.0 + 6.0i) divided by (3.0 + 6.0i) is (2.2666666666666666 + -2.533333333333333i)
+Square root of (22.0 + 6.0i)is (4.7330491494375355 + 0.6338408719792209i)
+polar form of (22.0 + 6.0i)is 22.80350850198276(cos 15.255118703057764 + i*sin 15.255118703057764)
+Conjugation of (22.0 + 6.0i)is (22.0 + -6.0i)
+
+
+Sixth test case for part 1
+(16.0 + 3.0i) plus (4.0 + 4.0i) equals (20.0 + 7.0i)
+(16.0 + 3.0i) minus (4.0 + 4.0i) equals (12.0 + -1.0i)
+(16.0 + 3.0i) multiplied by (4.0 + 4.0i) is (52.0 + 76.0i)
+(16.0 + 3.0i) divided by (4.0 + 4.0i) is (2.375 + -1.625i)
+Square root of (16.0 + 3.0i)is (4.017388492298181 + 0.37337688472889297i)
+polar form of (16.0 + 3.0i)is 16.278820596099706(cos 10.619655276155141 + i*sin 10.619655276155141)
+Conjugation of (16.0 + 3.0i)is (16.0 + -3.0i)
+
+
